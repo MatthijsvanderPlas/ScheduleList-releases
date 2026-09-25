@@ -3,6 +3,14 @@
     <channel>
         <title>ScheduleList</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Fri, 25 Sep 2026 17:58:03 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MatthijsvanderPlas/ScheduleList-releases/releases/download/v1.2.2/ScheduleList-1.2.2.zip" length="3669398" type="application/octet-stream" sparkle:edSignature="G/kpDCDUgt4rRBKc7+Ot6EgHhG/pXaX17ic40krRdjpJd+S3B8QTV7gYlCTLfS6gv+7BOPiRPJni7uDUSnB1Bw=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Fri, 25 Sep 2026 17:25:09 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
